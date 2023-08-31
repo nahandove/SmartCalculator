@@ -23,10 +23,10 @@ for multiplication, a / b for division, and a ^ b for power. The user can also e
 equations consisting of different operations and parenthesis e.g. a * (b + c) - d / 3, where a, b,
 c, d, and e can be integers or previously assigned variables.
 
-Variables can be assigned in this form x = y, where x is the variable consisting of one or more latin
+Variables can be assigned in this form x = y, where x is the variable consisting of one or more Latin
 letters, and y is either an integer or a previously assigned variable. For instance, the user can 
 assign variables consecutively: a = 5, b = a. The variable can also be reassigned to new values. If the
-variable name contains illegal characters (non-latin alphabets), the user is informed of their error.
+variable name contains illegal characters (non-Latin alphabets), the user is informed of their error.
 Similarly, the user is informed of their error if they try to assign a variable to another variable that
 had not been previously assigned.
 
